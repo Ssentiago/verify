@@ -3,14 +3,14 @@
     "id": "ivan-petrov",
     "name": "Иван Петров",
     "photo": "photos/ivan-petrov.jpg",
-    "position": "Frontend Developer",
+    "position": "Tech Specialist",
     "status": "active"
   },
   {
     "id": "olga-sidorova",
     "name": "Ольга Сидорова",
     "photo": "photos/olga-sidorova.jpg",
-    "position": "Backend Developer",
+    "position": "Tech Specialist",
     "status": "fired"
   }
 ]
