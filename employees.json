@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ivan-petrov",
+    "name": "Иван Петров",
+    "photo": "photos/ivan-petrov.jpg",
+    "position": "Frontend Developer",
+    "status": "active"
+  },
+  {
+    "id": "olga-sidorova",
+    "name": "Ольга Сидорова",
+    "photo": "photos/olga-sidorova.jpg",
+    "position": "Backend Developer",
+    "status": "fired"
+  }
+]
